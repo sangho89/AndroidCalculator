@@ -207,7 +207,6 @@ public class CalculatorActvity extends AppCompatActivity implements View.OnClick
                     System.out.println(sum);
                 }
             }
-            result.set
-        }
+            result.set;
     }
 }
